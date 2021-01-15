@@ -1,0 +1,27 @@
+﻿  Metadata.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Oleg\source\repos\Task3\Task3\Metadata.cpp(43,22): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\Oleg\source\repos\Task3\Task3\Metadata.cpp(43,34): error C2039: 'recursive_directory_iterator': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\regex(59): message : see declaration of 'std'
+C:\Users\Oleg\source\repos\Task3\Task3\Metadata.cpp(43,68): error C3861: 'recursive_directory_iterator': identifier not found
+C:\Users\Oleg\source\repos\Task3\Task3\Metadata.cpp(44,2): error C3861: 'recursive_directory_iterator': identifier not found
+C:\Users\Oleg\source\repos\Task3\Task3\Metadata.cpp(43,62): error C2672: 'begin': no matching overloaded function found
+C:\Users\Oleg\source\repos\Task3\Task3\Metadata.cpp(44,2): error C2893: Failed to specialize function template 'unknown-type std::begin(_Container &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xutility(2169): message : see declaration of 'std::begin'
+C:\Users\Oleg\source\repos\Task3\Task3\Metadata.cpp(44,2): message : With the following template arguments:
+C:\Users\Oleg\source\repos\Task3\Task3\Metadata.cpp(44,2): message : '_Container=unknown-type'
+C:\Users\Oleg\source\repos\Task3\Task3\Metadata.cpp(44,2): error C2784: 'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'unknown-type'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\initializer_list(57): message : see declaration of 'std::begin'
+C:\Users\Oleg\source\repos\Task3\Task3\Metadata.cpp(43,62): error C2672: 'end': no matching overloaded function found
+C:\Users\Oleg\source\repos\Task3\Task3\Metadata.cpp(44,2): error C2893: Failed to specialize function template 'unknown-type std::end(_Container &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xutility(2179): message : see declaration of 'std::end'
+C:\Users\Oleg\source\repos\Task3\Task3\Metadata.cpp(44,2): message : With the following template arguments:
+C:\Users\Oleg\source\repos\Task3\Task3\Metadata.cpp(44,2): message : '_Container=unknown-type'
+C:\Users\Oleg\source\repos\Task3\Task3\Metadata.cpp(44,2): error C2784: 'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'unknown-type'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\initializer_list(63): message : see declaration of 'std::end'
+C:\Users\Oleg\source\repos\Task3\Task3\Metadata.cpp(44,2): error C3536: '<begin>$L0': cannot be used before it is initialized
+C:\Users\Oleg\source\repos\Task3\Task3\Metadata.cpp(44,2): error C3536: '<end>$L0': cannot be used before it is initialized
+C:\Users\Oleg\source\repos\Task3\Task3\Metadata.cpp(43,68): error C2100: illegal indirection
+  Task3.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+  Threadpool.cpp
