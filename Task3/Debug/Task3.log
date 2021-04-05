@@ -1,2 +1,7 @@
-﻿  Threadpool.cpp
+﻿  Metadata.cpp
+  Task3.cpp
+  Threadpool.cpp
+C:\Users\Oleg\source\repos\Task3\Task3\Threadpool.cpp(97,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oleg\source\repos\Task3\Task3\Threadpool.cpp(102,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
   Task3.vcxproj -> C:\Users\Oleg\source\repos\Task3\Debug\Task3.exe

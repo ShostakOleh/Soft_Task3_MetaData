@@ -3,18 +3,19 @@
 #include <fstream>
 #include <vector>
 #include <sstream>
-#include <regex>
 #include <thread>
 #include <vector>
 #include <mutex>
 
+/*Structure with all output info*/
 struct OutputData
 {
 	std::string file_path;
+	int total_lines = 0;
 	int string_empty_total_value = 0;
 	int string_comment_total_value = 0;
 	int string_code_total_value = 0;
-	OutputData(std::string file_path_, int empty, int comment, int code) : file_path(file_path_), string_empty_total_value(empty), string_comment_total_value(comment), string_code_total_value(code) {};
+	OutputData(std::string file_path_, int empty = 0, int comment = 0, int code = 0, int total = 0) : file_path(file_path_), string_empty_total_value(empty), string_comment_total_value(comment), string_code_total_value(code), total_lines(total) {};
 	void PrintOutputData()
 	{
 		std::cout << "\nPath : " << file_path << "\nEmpty : " << string_empty_total_value << "\nComment : " << string_comment_total_value << "\nCode : " << string_code_total_value << "\n\n";
@@ -25,31 +26,33 @@ struct OutputData
 
 class Threadpool
 {
+	/*Pool of working threads*/
 	std::vector<std::thread> pool;
+	/*Vector of unprocessed files pathes*/
 	std::vector<std::string> queue;
+	/*Mutex for poping from queue*/
 	std::mutex queue_mutex;
+	/*Mutex for pushing to result*/
 	std::mutex write_mutex;
 	std::vector<OutputData> result;
-	/* DEBUG purposes
-	std::atomic<int> string_empty_total_value = 0;
-	std::atomic<int> string_comment_total_value = 0;
-	std::atomic<int> string_code_total_value = 0;
-	*/
-	std::regex comment_regex = { '(','[','^','"',']','|','(','\\','"','.','*','\\','"',')',')','*','(','/','/',')','+','.','*' };
-	std::regex long_comment_start_regex = { '[','^','"','(','/','/',')',']','*','(','\\','"','.','*','\\','"',')','*','(','/','\\','*',')','+','.','*' };
-	std::regex long_comment_end_regex = { '\\','*','/' };
-	std::regex code_regex = { '(','^','\\','s','*','[','^','(','/','\\','*',')','(','/','/',')','(','\\','s',')',']','+','.','*',')' };
-	std::regex empty_regex = { '\\','s','*' };
 
+	//Function for threads to wait for next file
 	void InfiniteLoop();
+	//Functions for threads to read line from file
 	void Work(std::string file_path);
+	//Function to check category of line
+	bool LineCheck(std::string& line, const bool is_in_comment, OutputData& data);
 
 public:
-	int threads_num;
 
 	Threadpool(std::vector<std::string> queue_);
+	/*Calculates quantity of each line type*/
 	void Calculate();
+	/*Outputs vector result*/
 	void PrintData();
-	int GetSize();
+	/*Returns number of files*/
+	uint32_t GetSize();
+	/*Save result in file*/
+	void PrintToFile();
 };
 

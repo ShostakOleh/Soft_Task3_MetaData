@@ -1,0 +1,1248 @@
+
+Path : C:\\Users\\Oleg\\source\\repos\VectorF\VectorF\Vector.h
+Empty : 12
+Comment : 0
+Code : 41
+
+
+Path : C:\\Users\\Oleg\\source\\repos\VectorF\VectorF\VectorF.cpp
+Empty : 1
+Comment : 2
+Code : 10
+
+
+Path : C:\\Users\\Oleg\\source\\repos\VectorF\VectorF\pch.cpp
+Empty : 2
+Comment : 2
+Code : 1
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Vector\Vector\Vector.cpp
+Empty : 2
+Comment : 2
+Code : 11
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Vector\Vector\pch.cpp
+Empty : 2
+Comment : 2
+Code : 1
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Vector\Vector\pch.h
+Empty : 3
+Comment : 8
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\VectorF\VectorF\Vector.cpp
+Empty : 38
+Comment : 14
+Code : 319
+
+
+Path : C:\\Users\\Oleg\\source\\repos\UniqueWords\UniqueWords\UniqueWords.cpp
+Empty : 14
+Comment : 8
+Code : 51
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Unique\Unique\Unique.cpp
+Empty : 8
+Comment : 2
+Code : 23
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Try_this\Try_this\pch.cpp
+Empty : 2
+Comment : 2
+Code : 1
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Try_this\Try_this\Try_this.cpp
+Empty : 5
+Comment : 22
+Code : 46
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Try_this\Try_this\pch.h
+Empty : 3
+Comment : 8
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TPR_1\TPR_1\RPlus.hpp
+Empty : 28
+Comment : 17
+Code : 40
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TPR_1\TPR_1\RPlus.cpp
+Empty : 23
+Comment : 11
+Code : 270
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TPR_1\TPR_1\pch.cpp
+Empty : 2
+Comment : 2
+Code : 1
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TPR_1\TPR_1\pch.h
+Empty : 3
+Comment : 8
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TMD4\TMD4\pch.h
+Empty : 3
+Comment : 8
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TPR_1\TPR_1\RelationMatrix.hpp
+Empty : 23
+Comment : 7
+Code : 43
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TMD4\TMD4\pch.cpp
+Empty : 2
+Comment : 2
+Code : 1
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TPR_1\TPR_1\main.cpp
+Empty : 27
+Comment : 32
+Code : 63
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TMD4\TMD4\main.cpp
+Empty : 9
+Comment : 0
+Code : 57
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestMove\TestMove\pch.h
+Empty : 3
+Comment : 8
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\ThreadPoolTest\Task2.cpp
+Empty : 9
+Comment : 3
+Code : 22
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestMove\TestMove\pch.cpp
+Empty : 2
+Comment : 2
+Code : 1
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Testtest\Testtest\Testtest.cpp
+Empty : 8
+Comment : 2
+Code : 28
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestMove\TestMove\TestMove.cpp
+Empty : 9
+Comment : 3
+Code : 59
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\TestFotTask1\pch.h
+Empty : 2
+Comment : 4
+Code : 2
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\TestFotTask1\test.cpp
+Empty : 1
+Comment : 0
+Code : 6
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\TestFotTask1\pch.cpp
+Empty : 1
+Comment : 4
+Code : 1
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TPR_1\TPR_1\IRelation.cpp
+Empty : 4
+Comment : 7
+Code : 24
+
+
+Path : C:\\Users\\Oleg\\source\\repos\VectorF\VectorF\pch.h
+Empty : 3
+Comment : 8
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-string.h
+Empty : 24
+Comment : 107
+Code : 36
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TPR_1\TPR_1\IRelation.hpp
+Empty : 26
+Comment : 17
+Code : 39
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-port-arch.h
+Empty : 3
+Comment : 36
+Code : 61
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-param-util.h
+Empty : 88
+Comment : 191
+Code : 445
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-death-test-internal.h
+Empty : 39
+Comment : 97
+Code : 144
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-filepath.h
+Empty : 34
+Comment : 124
+Code : 53
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\custom\gtest.h
+Empty : 2
+Comment : 32
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-tuple.h
+Empty : 199
+Comment : 70
+Code : 752
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\custom\gtest-printers.h
+Empty : 2
+Comment : 37
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\custom\gtest-port.h
+Empty : 2
+Comment : 32
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest_prod.h
+Empty : 5
+Comment : 51
+Code : 5
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest-test-part.h
+Empty : 34
+Comment : 72
+Code : 77
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest-typed-test.h
+Empty : 44
+Comment : 138
+Code : 124
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\TestForTask2\test.cpp
+Empty : 1
+Comment : 0
+Code : 8
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest_pred_impl.h
+Empty : 46
+Comment : 96
+Code : 217
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\TestForTask2\pch.h
+Empty : 2
+Comment : 4
+Code : 2
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\TestForTask2\pch.cpp
+Empty : 1
+Comment : 4
+Code : 1
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest-death-test.h
+Empty : 30
+Comment : 243
+Code : 71
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-port-arch.h
+Empty : 3
+Comment : 36
+Code : 61
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest-printers.h
+Empty : 120
+Comment : 369
+Code : 618
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TPR_1\TPR_1\RelationMatrix.cpp
+Empty : 28
+Comment : 7
+Code : 238
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-death-test-internal.h
+Empty : 39
+Comment : 97
+Code : 144
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-linked_ptr.h
+Empty : 30
+Comment : 95
+Code : 118
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\custom\gtest.h
+Empty : 2
+Comment : 32
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\custom\gtest-port.h
+Empty : 2
+Comment : 32
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest-test-part.h
+Empty : 34
+Comment : 72
+Code : 77
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-param-util.h
+Empty : 88
+Comment : 191
+Code : 445
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-linked_ptr.h
+Empty : 30
+Comment : 95
+Code : 118
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest_prod.h
+Empty : 5
+Comment : 51
+Code : 5
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest-typed-test.h
+Empty : 44
+Comment : 138
+Code : 124
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest_pred_impl.h
+Empty : 46
+Comment : 96
+Code : 217
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest-message.h
+Empty : 29
+Comment : 137
+Code : 89
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest-spi.h
+Empty : 24
+Comment : 115
+Code : 98
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-filepath.h
+Empty : 34
+Comment : 124
+Code : 53
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\internal\gtest-string.h
+Empty : 23
+Comment : 108
+Code : 36
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-string.h
+Empty : 24
+Comment : 107
+Code : 36
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\custom\gtest-printers.h
+Empty : 2
+Comment : 37
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\internal\gtest-linked_ptr.h
+Empty : 29
+Comment : 96
+Code : 108
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\gtest_pred_impl.h
+Empty : 43
+Comment : 98
+Code : 217
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\gtest-typed-test.h
+Empty : 40
+Comment : 115
+Code : 104
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest-death-test.h
+Empty : 30
+Comment : 243
+Code : 71
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\gtest-message.h
+Empty : 26
+Comment : 137
+Code : 87
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\gtest-test-part.h
+Empty : 32
+Comment : 72
+Code : 75
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\gtest-spi.h
+Empty : 20
+Comment : 115
+Code : 97
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\internal\gtest-tuple.h
+Empty : 196
+Comment : 68
+Code : 748
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Task3\Task3\Threadpool.h
+Empty : 8
+Comment : 12
+Code : 38
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\internal\gtest-param-util.h
+Empty : 71
+Comment : 179
+Code : 369
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Task3\Task3\Task3.cpp
+Empty : 1
+Comment : 8
+Code : 26
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Task3\Task3\Metadata.h
+Empty : 5
+Comment : 9
+Code : 20
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-internal.h
+Empty : 183
+Comment : 453
+Code : 694
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\internal\gtest-death-test-internal.h
+Empty : 39
+Comment : 128
+Code : 152
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Test\Test\pch.cpp
+Empty : 2
+Comment : 2
+Code : 1
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Task3\Task3\Threadpool.cpp
+Empty : 10
+Comment : 10
+Code : 118
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\gtest-death-test.h
+Empty : 28
+Comment : 207
+Code : 59
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Task1\Task1\Task1.cpp
+Empty : 2
+Comment : 0
+Code : 6
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest-param-test.h
+Empty : 94
+Comment : 327
+Code : 1013
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Task2\Task2\AnyType.h
+Empty : 10
+Comment : 11
+Code : 69
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Task2\Task2\AnyType.cpp
+Empty : 30
+Comment : 0
+Code : 207
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Task1\Task1\StringList.h
+Empty : 3
+Comment : 18
+Code : 22
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\internal\gtest-internal.h
+Empty : 155
+Comment : 442
+Code : 561
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Task1last\Task1\Task1.cpp
+Empty : 12
+Comment : 8
+Code : 113
+
+
+Path : C:\\Users\\Oleg\\source\\repos\smartptr\smartptr\smartptr.cpp
+Empty : 4
+Comment : 5
+Code : 13
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Test\Test\Test.cpp
+Empty : 13
+Comment : 10
+Code : 57
+
+
+Path : C:\\Users\\Oleg\\source\\repos\SensorsLab_1\SensorsLab_1\SensorsLab_1.cpp
+Empty : 15
+Comment : 2
+Code : 102
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Task2\Task2\Task2.cpp
+Empty : 2
+Comment : 0
+Code : 18
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Test\Test\pch.h
+Empty : 3
+Comment : 8
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Task3\Task3\Metadata.cpp
+Empty : 7
+Comment : 0
+Code : 51
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Project_with_list\Project_with_list\pch.h
+Empty : 3
+Comment : 8
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Project_with_list\Project_with_list\pch.cpp
+Empty : 2
+Comment : 2
+Code : 1
+
+
+Path : C:\\Users\\Oleg\\source\\repos\MemoryAllocation\MemoryAllocation\pch.h
+Empty : 3
+Comment : 8
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Math\Math\pch.cpp
+Empty : 2
+Comment : 2
+Code : 1
+
+
+Path : C:\\Users\\Oleg\\source\\repos\MemoryAllocation\MemoryAllocation\pch.cpp
+Empty : 2
+Comment : 2
+Code : 1
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Lab2M\Lab2M\Lab2M.cpp
+Empty : 0
+Comment : 0
+Code : 0
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Math\Math\pch.h
+Empty : 3
+Comment : 8
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Project_with_list\Project_with_list\List.cpp
+Empty : 4
+Comment : 0
+Code : 8
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest-message.h
+Empty : 29
+Comment : 137
+Code : 89
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Math\Math\Math.cpp
+Empty : 2
+Comment : 2
+Code : 8
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Lab6_\Lab6_\Lab6_.cpp
+Empty : 38
+Comment : 0
+Code : 94
+
+
+Path : C:\\Users\\Oleg\\source\\repos\MemoryAllocation\MemoryAllocation\MemoryAllocation.cpp
+Empty : 3
+Comment : 2
+Code : 14
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Lab2games\Lab2games\Lab2games.cpp
+Empty : 5
+Comment : 2
+Code : 40
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\test\production.h
+Empty : 8
+Comment : 32
+Code : 14
+
+
+Path : C:\\Users\\Oleg\\source\\repos\List\List\List.h
+Empty : 0
+Comment : 0
+Code : 0
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Project_with_list\Project_with_list\List.h
+Empty : 1
+Comment : 0
+Code : 7
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Lab5\Lab5\Lab5.cpp
+Empty : 5
+Comment : 0
+Code : 39
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\gtest_prod.h
+Empty : 4
+Comment : 49
+Code : 5
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Lab2\Lab2\Lab2.cpp
+Empty : 14
+Comment : 2
+Code : 97
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Project_with_list\Project_with_list\Project_with_list.cpp
+Empty : 1
+Comment : 0
+Code : 6
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Lab4\Lab4\Lab4.cpp
+Empty : 8
+Comment : 1
+Code : 82
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\internal\gtest-filepath.h
+Empty : 31
+Comment : 124
+Code : 51
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\internal\gtest-type-util.h
+Empty : 28
+Comment : 60
+Code : 99
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\gtest-printers.h
+Empty : 82
+Comment : 335
+Code : 438
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest-spi.h
+Empty : 24
+Comment : 115
+Code : 98
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest-param-test.h
+Empty : 94
+Comment : 327
+Code : 1013
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-tuple.h
+Empty : 199
+Comment : 70
+Code : 752
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-internal.h
+Empty : 183
+Comment : 453
+Code : 694
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest-printers.h
+Empty : 120
+Comment : 369
+Code : 618
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\internal\gtest-port.h
+Empty : 259
+Comment : 782
+Code : 906
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-port.h
+Empty : 372
+Comment : 994
+Code : 1336
+
+
+Path : C:\\Users\\Oleg\\source\\repos\List\List\List.cpp
+Empty : 1
+Comment : 0
+Code : 6
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\test\gtest-typed-test_test.h
+Empty : 13
+Comment : 32
+Code : 20
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\internal\gtest-string.h
+Empty : 26
+Comment : 110
+Code : 39
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Lab6\Lab6\Lab6.cpp
+Empty : 73
+Comment : 14
+Code : 302
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Task1\Task1\StringList.cpp
+Empty : 22
+Comment : 5
+Code : 338
+
+
+Path : C:\\Users\\Oleg\\source\\repos\List\List\Check.h
+Empty : 1
+Comment : 0
+Code : 7
+
+
+Path : C:\\Users\\Oleg\\source\\repos\List\List\Check.cpp
+Empty : 4
+Comment : 0
+Code : 8
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest.h
+Empty : 347
+Comment : 1098
+Code : 901
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Check_some_shit\Check_some_shit\pch.cpp
+Empty : 2
+Comment : 2
+Code : 1
+
+
+Path : C:\\Users\\Oleg\\source\\repos\List\List\pch.h
+Empty : 3
+Comment : 8
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\ConsoleApplication1\ConsoleApplication1\IRelation.hpp
+Empty : 26
+Comment : 17
+Code : 38
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\samples\sample1.h
+Empty : 5
+Comment : 31
+Code : 5
+
+
+Path : C:\\Users\\Oleg\\source\\repos\ConsoleApplication1\ConsoleApplication1\RPlus.cpp
+Empty : 23
+Comment : 11
+Code : 270
+
+
+Path : C:\\Users\\Oleg\\source\\repos\ConsoleApplication1\ConsoleApplication1\pch.cpp
+Empty : 2
+Comment : 2
+Code : 1
+
+
+Path : C:\\Users\\Oleg\\source\\repos\ConsoleApplication1\ConsoleApplication1\RelationMatrix.cpp
+Empty : 27
+Comment : 7
+Code : 238
+
+
+Path : C:\\Users\\Oleg\\source\\repos\GameTheory_1\GameTheory_1\GameTheory_1.cpp
+Empty : 71
+Comment : 19
+Code : 67
+
+
+Path : C:\\Users\\Oleg\\source\\repos\ConsoleApplication1\ConsoleApplication1\RelationMatrix.hpp
+Empty : 23
+Comment : 7
+Code : 42
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googlemock\include\gmock\internal\custom\gmock-matchers.h
+Empty : 1
+Comment : 32
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\internal\gtest-port-arch.h
+Empty : 3
+Comment : 36
+Code : 73
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\internal\custom\gtest-printers.h
+Empty : 2
+Comment : 37
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googlemock\include\gmock\internal\gmock-port.h
+Empty : 13
+Comment : 49
+Code : 25
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googlemock\test\gmock_link_test.h
+Empty : 116
+Comment : 166
+Code : 408
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\gtest_pred_impl.h
+Empty : 45
+Comment : 98
+Code : 216
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\internal\gtest-death-test-internal.h
+Empty : 41
+Comment : 102
+Code : 161
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\gtest-spi.h
+Empty : 25
+Comment : 115
+Code : 98
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\test\googletest-param-test-test.h
+Empty : 5
+Comment : 37
+Code : 9
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\gtest-test-part.h
+Empty : 35
+Comment : 73
+Code : 76
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\samples\sample4.h
+Empty : 7
+Comment : 34
+Code : 12
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googlemock\include\gmock\internal\gmock-pp.h
+Empty : 25
+Comment : 89
+Code : 165
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\gtest-param-test.h
+Empty : 97
+Comment : 320
+Code : 1004
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googlemock\include\gmock\gmock-cardinalities.h
+Empty : 31
+Comment : 75
+Code : 51
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\internal\custom\gtest.h
+Empty : 2
+Comment : 32
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googlemock\include\gmock\internal\custom\gmock-port.h
+Empty : 3
+Comment : 33
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\gtest-matchers.h
+Empty : 128
+Comment : 243
+Code : 562
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\gtest-message.h
+Empty : 27
+Comment : 128
+Code : 64
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\gtest-typed-test.h
+Empty : 47
+Comment : 137
+Code : 153
+
+
+Path : C:\\Users\\Oleg\\source\\repos\List\List\pch.cpp
+Empty : 2
+Comment : 2
+Code : 1
+
+
+Path : C:\\Users\\Oleg\\source\\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp
+Empty : 3
+Comment : 2
+Code : 19
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\src\gtest-internal-inl.h
+Empty : 214
+Comment : 423
+Code : 591
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googlemock\include\gmock\internal\custom\gmock-generated-actions.h
+Empty : 3
+Comment : 4
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\ConsoleApplication1\ConsoleApplication1\IRelation.cpp
+Empty : 4
+Comment : 7
+Code : 23
+
+
+Path : C:\\Users\\Oleg\\source\\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp
+Empty : 28
+Comment : 32
+Code : 63
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googlemock\include\gmock\gmock-spec-builders.h
+Empty : 276
+Comment : 731
+Code : 1029
+
+
+Path : C:\\Users\\Oleg\\source\\repos\ConsoleApplication1\ConsoleApplication1\main.cpp
+Empty : 28
+Comment : 32
+Code : 62
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\internal\custom\gtest-port.h
+Empty : 2
+Comment : 32
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\internal\gtest-port.h
+Empty : 320
+Comment : 853
+Code : 1198
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\gtest_prod.h
+Empty : 5
+Comment : 51
+Code : 5
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Check_some_shit\Check_some_shit\pch.h
+Empty : 3
+Comment : 8
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp
+Empty : 3
+Comment : 2
+Code : 6
+
+
+Path : C:\\Users\\Oleg\\source\\repos\ConsoleApplication1\ConsoleApplication1\pch.h
+Empty : 3
+Comment : 8
+Code : 3
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googlemock\include\gmock\gmock.h
+Empty : 13
+Comment : 66
+Code : 19
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\internal\gtest-filepath.h
+Empty : 34
+Comment : 124
+Code : 53
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googlemock\include\gmock\internal\gmock-internal-utils.h
+Empty : 58
+Comment : 177
+Code : 224
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googlemock\include\gmock\gmock-nice-strict.h
+Empty : 37
+Comment : 84
+Code : 141
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\gtest.h
+Empty : 330
+Comment : 1075
+Code : 886
+
+
+Path : C:\\Users\\Oleg\\source\\repos\ConsoleApplication1\ConsoleApplication1\RPlus.hpp
+Empty : 28
+Comment : 17
+Code : 39
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\samples\sample2.h
+Empty : 16
+Comment : 43
+Code : 22
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\gtest-death-test.h
+Empty : 29
+Comment : 241
+Code : 72
+
+
+Path : C:\\Users\\Oleg\\source\\repos\Check_some_shit\Check_some_shit\Check_some_shit.cpp
+Empty : 2
+Comment : 2
+Code : 12
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\gtest-printers.h
+Empty : 103
+Comment : 280
+Code : 568
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googlemock\include\gmock\gmock-more-matchers.h
+Empty : 14
+Comment : 49
+Code : 29
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\gtest-param-test.h
+Empty : 39
+Comment : 326
+Code : 147
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googlemock\include\gmock\gmock-generated-actions.h
+Empty : 32
+Comment : 163
+Code : 382
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-type-util.h
+Empty : 141
+Comment : 115
+Code : 3092
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-type-util.h
+Empty : 141
+Comment : 115
+Code : 3092
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\gtest.h
+Empty : 371
+Comment : 1158
+Code : 962
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\samples\sample3-inl.h
+Empty : 29
+Comment : 57
+Code : 86
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\samples\prime_tables.h
+Empty : 23
+Comment : 46
+Code : 57
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\internal\gtest-param-util.h
+Empty : 126
+Comment : 213
+Code : 608
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-port.h
+Empty : 372
+Comment : 994
+Code : 1336
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googletest\include\gtest\internal\gtest-internal.h
+Empty : 229
+Comment : 437
+Code : 898
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-param-util-generated.h
+Empty : 399
+Comment : 231
+Code : 4922
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\internal\gtest-param-util-generated.h
+Empty : 349
+Comment : 235
+Code : 4559
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest.h
+Empty : 347
+Comment : 1098
+Code : 901
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googlemock\include\gmock\gmock-function-mocker.h
+Empty : 68
+Comment : 55
+Code : 356
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googlemock\include\gmock\gmock-actions.h
+Empty : 228
+Comment : 524
+Code : 936
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestForTask2\packages\gtest.1.7.0\build\native\include\gtest\internal\gtest-type-util.h
+Empty : 138
+Comment : 111
+Code : 3082
+
+
+Path : C:\\Users\\Oleg\\source\\repos\TestFotTask1\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\internal\gtest-param-util-generated.h
+Empty : 399
+Comment : 231
+Code : 4922
+
+
+Path : C:\\Users\\Oleg\\source\\repos\googletest-master\googlemock\include\gmock\gmock-matchers.h
+Empty : 658
+Comment : 1292
+Code : 3442
+

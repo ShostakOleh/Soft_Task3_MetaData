@@ -4,36 +4,31 @@
 #include <filesystem>
 #include <vector>
 #include <sstream>
-#include <regex>
 
 class Metadata
 {
-	std::string path = "C:\\Users\\Oleg\\source\\repos\\Task2";
+	/*Path to user defined directory*/
+	std::string path;
+	/*Default list of extensions*/
 	std::vector<std::string> ext = { ".c" ,".cpp" ,".h" ,".hpp" };
 
-	int string_empty_value = 0;
-	int string_comment_value = 0;
-	int string_code_value = 0; 
-
-	std::regex comment_regex = { '(','[','^','"',']','|','(','\\','"','.','*','\\','"',')',')','*','(','/','/',')','+','.','*' };
-	std::regex long_comment_start_regex = { '[','^','"','(','/','/',')',']','*','(','\\','"','.','*','\\','"',')','*','(','/','\\','*',')','+','.','*' };
-	std::regex long_comment_end_regex = { '\\','*','/' };
-	std::regex code_regex = { '(','^','\\','s','*','[','^','(','/','\\','*',')','(','/','/',')','(','\\','s',')',']','+','.','*',')' };
-	std::regex empty_regex = { '\\','s','*' };
-
-	void StringOut(std::string str);
-	
 public:
+	/*Files with needed extensions*/
 	std::vector<std::string> files;
 
-	Metadata();
 	Metadata(std::string path_);
+	/*Outputs all extensions*/
 	void GetExt();
+	/*Deletes all extensions*/
 	void ClearExt();
+	/*Add extentions using console*/
 	void AddExt();
+	/*Add extentions using arguments*/
+	void AddExtAsArg(char* arg);
+	/*Search for files with needed extensions*/
 	void SearchForFiles();
+	/*Outputs all files with needed extensions*/
 	void PrintFiles();
-	void ReadFiles();
 
 };
 

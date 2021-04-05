@@ -6,13 +6,12 @@ void Threadpool::InfiniteLoop()
 	{
 		std::string str;
 		{
+			//Locks for thread-safe access to queue
 			std::lock_guard<std::mutex> lock(queue_mutex);
 			if (!queue.empty())
 			{
 				str = queue.back();
 				queue.pop_back();
-				// DEBUG purposes
-				//std::cout << "\nNum = " << queue.size() << '\n';
 			}
 			else
 			{
@@ -25,125 +24,115 @@ void Threadpool::InfiniteLoop()
 
 void Threadpool::Work(std::string file_path)
 {
-	// DEBUG purposes
-	//std::cout << "\nPath = " << file_path << '\n';
 	std::string line;
-	bool is_in_comment = false;
-	bool comment_end = false;
-	int string_empty_value = 0;
-	int string_comment_value = 0;
-	int string_code_value = 0;
+	OutputData data(file_path);
 	std::ifstream infile(file_path);
-		if (infile)
+	if (infile)
+	{
+		//Shows if comment started(/*) and didn't end(*/)
+		bool is_in_comment = false;
+		while (getline(infile, line))
 		{
-			std::smatch sm;
-			while (getline(infile, line) )
-			{
-				comment_end = false;
-				if (line.length() == 0 || std::regex_match(line, sm, empty_regex))
-				{
-					++string_empty_value;
-					if (is_in_comment)
-					{
-						++string_comment_value;
-					}
-					continue;
-				}
-				if (is_in_comment)
-				{
-					++string_comment_value;
-					if (std::regex_search(line, sm, long_comment_end_regex))
-					{
-						is_in_comment = false;
-						line = sm.suffix();
-						comment_end = true;
-					}
-					else
-					{
-						continue;
-					}
-				}
-
-				if (std::regex_match(line, sm, code_regex))
-				{
-					++string_code_value;
-				}
-
-				if (std::regex_match(line, sm, long_comment_start_regex))
-				{
-					++string_comment_value;
-					is_in_comment = true;
-					if (std::regex_search(line, sm, long_comment_end_regex))
-					{
-						is_in_comment = false;
-						line = sm.suffix();
-					}
-					else
-					{
-						continue;
-					}
-				}
-
-				if (std::regex_match(line, sm, comment_regex))
-				{
-					++string_comment_value;
-				}
-				else if (comment_end && !std::regex_match(line, sm, empty_regex))
-				{
-					++string_code_value;
-				}
-			}
+			//Erases whitespaces
+			line.erase(std::remove(line.begin(), line.end(), '	'), line.end());
+			line.erase(std::remove(line.begin(), line.end(), ' '), line.end());
+			//Updates comment status and line type count
+			is_in_comment = LineCheck(line, is_in_comment, data);
 		}
-		/* DEBUG purposes
-		string_empty_total_value += string_empty_value;
-		string_comment_total_value += string_comment_value;
-		string_code_total_value += string_code_value;
-		*/
+	}
+	{
+		//Locks for thread-safe access to result
+		std::lock_guard<std::mutex> lock(write_mutex);
+		result.push_back(data);
+	}
+}
+
+bool Threadpool::LineCheck(std::string& line, const bool is_in_comment, OutputData& data)
+{
+	bool result = is_in_comment;
+	data.total_lines++;
+	if (is_in_comment)
+	{
+		if (line.find("*/") != -1)
 		{
-			OutputData data(file_path, string_empty_value, string_comment_value, string_code_value);
-			std::lock_guard<std::mutex> lock(write_mutex);
-			result.push_back(data);
+			result = false;
 		}
+		data.string_comment_total_value++;
+	}
+	else if (line.length() == 0)
+	{
+		data.string_empty_total_value++;
+	}
+	else if (line[0] == '/' && line[1] == '/')
+	{
+		data.string_comment_total_value++;
+	}
+	else if (line[0] == '/' && line[1] == '*')
+	{
+		data.string_comment_total_value++;
+		//Check if long comment ends on same line
+		result = !(line.find("*/") != -1);
+	}
+	else
+	{
+		data.string_code_total_value++;
+	}
+	return result;
 }
 
 Threadpool::Threadpool(std::vector<std::string> queue_)
 {
 	queue = std::move(queue_);
-	threads_num = std::thread::hardware_concurrency();
 }
 
 void Threadpool::Calculate()
 {
-	int n = GetSize();
-	if (threads_num < n)
+	//Take number of threads equal to maximum provided by system or file number
+	uint32_t n = GetSize();
+	if (std::thread::hardware_concurrency() < n)
 	{
-	int n = threads_num;
+		int n = std::thread::hardware_concurrency();
 	}
-	
+	//Creates threads
 	for (int i = 0; i < n; ++i)
 	{
 		pool.push_back(std::thread(&Threadpool::InfiniteLoop, this));
 	}
-
+	//Waits for threads to finish
 	for (int i = 0; i < n; ++i)
 	{
 		pool[i].join();
 	}
-
+	//Destroys threads
 	pool.clear();
 }
 
 void Threadpool::PrintData()
 {
-	// DEBUG purposes
-	//std::cout << '\n' << '\n' << "Empty:" << string_empty_total_value << '\n' << "Comment:" << string_comment_total_value << '\n' << "Code:" << string_code_total_value;
 	for (auto i_data = result.begin(); i_data != result.end(); i_data++)
 	{
 		i_data->PrintOutputData();
 	}
+	std::cout << "Number of processed files : " << result.size() << "\nTime of execution : ";
 }
 
-int Threadpool::GetSize()
+uint32_t Threadpool::GetSize()
 {
 	return queue.size();
 }
+
+void Threadpool::PrintToFile()
+{
+	std::ofstream result_file;
+	result_file.open("result.txt");
+	int processed_lines = 0;
+	for (auto i_data = result.begin(); i_data != result.end(); i_data++)
+	{
+		result_file << "\nPath : " << i_data->file_path << "\nEmpty : " << i_data->string_empty_total_value << "\nComment : " << i_data->string_comment_total_value << "\nCode : " << i_data->string_code_total_value << "\n\n";
+		processed_lines += i_data->total_lines;
+	}
+	result_file.close();
+	std::cout << "Number of processed lines : " << processed_lines << "\nNumber of processed files : " << result.size() << "\nTime of execution : ";
+}
+
+
